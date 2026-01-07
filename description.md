@@ -44,3 +44,19 @@ This section presents image of the device with a brief description of its appear
 
 \*The photo shows the display with the active Dynamic Island cutout, which smoothly expands to display incoming calls and music.\*
 
+
+
+\## Similar devices
+
+If you are considering alternatives to the iPhone 15, take a look at the following competitor devices:
+
+
+
+1\.  \*\*Samsung Galaxy S23 / S24:\*\* Direct competitor on Android. Offers an excellent 120Hz AMOLED screen and a versatile camera system with a telephoto lens.
+
+2\.  \*\*Google Pixel 8:\*\* A smartphone from Google, famous for its computational photography algorithms and clean Android version with unique AI features.
+
+3\.  \*\*Xiaomi 14:\*\* A compact flagship with a top-tier Snapdragon processor and optics from Leica, offering fast charging included in the box.
+
+4\.  \*\*OnePlus 11:\*\* A larger device that often costs less but offers very fast charging and excellent performance.
+
