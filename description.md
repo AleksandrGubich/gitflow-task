@@ -32,3 +32,15 @@ Here are the main technical specifications of the device:
 
 \* \*\*Protection:\*\* IP68 (up to 30 minutes at a depth of 6 meters), Ceramic Shield front cover.
 
+
+
+\## Photos with descriptions
+
+This section presents image of the device with a brief description of its appearance and features.
+
+
+
+!\[Front panel of iPhone 15 with Dynamic Island](https://helios-i.mashable.com/imagery/articles/06uBOe0Q3Z7wjhtGju7WGxw/hero-image.fill.size\_1200x1200.v1694540690.png)
+
+\*The photo shows the display with the active Dynamic Island cutout, which smoothly expands to display incoming calls and music.\*
+
